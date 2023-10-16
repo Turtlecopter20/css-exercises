@@ -1,0 +1,13 @@
+.lucky,
+.unlucky {
+    font-size: 28px;
+    font-family: Hlevetica, "Times New Roman", sans-serif,
+}
+
+.lucky {
+    background-color: black;
+    color: white;
+}
+.unlucky {
+    background-color: yellow;
+}
